@@ -1,0 +1,18 @@
+[workspace.package]
+license = "GPLv3"
+name = "sailfish-hadk-gui"
+version = "0.0.1"
+edition = "2024"
+
+
+[workspace.dependencies]
+eframe = "0.22"
+
+[profile.release]
+opt-level = "s"
+debug = "false"
+lto = "thin"
+codegen-units = "2"
+panic = "abort"
+strip = "false"
+incremental = "true"
