@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Sailfish OS HADK GUI
+Comment=Client to port Sailfish OS to new devices
+Exec=sh -c '/usr/bin/sailfish-hadk-gui || $HOME/.cargo/bin/sailfish-hadk-gui || sailfish-hadk-gui'
+Icon=sailfish-hadk-gui
+Type=Application
+Terminal=true
+Categories=Utility;
