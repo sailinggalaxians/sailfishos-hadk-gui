@@ -18,6 +18,8 @@ cargo install sailfishos-hadk-gui
 ## 🛠 Contributing
 
 I welcome contributions from anyone willing to make this happen! Together we are 1!
+Only commit to the development branch, until the program is well tested to work for
+at least 1 device.
 
 ## 📜 Contributor Milestones
 
