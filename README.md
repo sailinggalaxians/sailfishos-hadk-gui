@@ -5,7 +5,7 @@ No usage instructions yet.
 
 ## ⬇️ Installation
 
-In the future when this when this is ready it can be installed using:
+In the future when this is ready it can be installed using:
 
 ```bash
 cargo install sailfishos-hadk-gui
