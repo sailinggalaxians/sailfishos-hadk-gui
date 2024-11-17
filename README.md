@@ -1,14 +1,14 @@
-# Sailing Galaxian's client to port Sailfish OS to new devices
+# Sailing Galaxian's client with a GUI to port Sailfish OS to new devices
 
 ## 💡 Usage
 No usage instructions yet.
 
 ## ⬇️ Installation
 
-In the future when this is ready it can  be installed using:
+In the future when this when this is ready it can be installed using:
 
 ```bash
-cargo install
+cargo install sailfishos-hadk-gui
 ```
 
 ## 🎓 Documentation
