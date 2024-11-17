@@ -20,6 +20,9 @@ cargo install sailfishos-hadk-gui
 I welcome contributions from anyone willing to make this happen! Together we are 1!
 Only commit to the development branch, until the program is well tested to work for
 at least 1 device.
+Use the PDF for the HADK as a template for this program which can be found here:
+
+[PDF](https://docs.sailfishos.org/Develop/HADK/SailfishOS-HardwareAdaptationDevelopmentKit-4.5.0.19.pdf)
 
 ## 📜 Contributor Milestones
 
